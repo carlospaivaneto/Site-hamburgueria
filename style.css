@@ -34,7 +34,7 @@ body {
 .header-section .badge-horario {
     background-color: #28a745;
     font-size: 1.1rem;
-    padding: 0.8rem 1.5rem;
+    padding: 0.4rem 0.2rem;
     border-radius: 50px;
     font-weight: 500;
 }
